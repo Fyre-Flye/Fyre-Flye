@@ -2,7 +2,7 @@
 
 - 📚 CS Student at [CESAR School](http://www.cesar.school)
 - 🏠 I'm from Recife, Brazil
-- 🌱 I’m currently learning: **CS Fundamentals**
+- 🌱 I’m currently learning: **CS Fundamentals**, **OOP**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "DjdogeGamer" is my very old nickname that i use for everything in games 😅
 
