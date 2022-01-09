@@ -1,4 +1,4 @@
-# Hey! I'm Gustavo 👋
+# Hey! I'm Gustavo Henrique 👋
 
 - 📚 CS Student at [CESAR School](http://www.cesar.school)
 - 🏠 I'm from Recife, Brazil
