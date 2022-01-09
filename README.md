@@ -1,17 +1,18 @@
-### Hey! I'm Gustavo 👋
+# Hey! I'm Gustavo 👋
 
-CS Student at [CESAR School](http://www.cesar.school)
-
+- 📚 CS Student at [CESAR School](http://www.cesar.school)
 - 🏠 I'm from Recife, Brazil
-- 🌱 I’m currently learning: CS Fundamentals
+- 🌱 I’m currently learning: **CS Fundamentals**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: "DjdogeGamer" is my very old nickname that i use for everything in games 😅
+- ⚡ Fun fact: DjdogeGamer" is my very old nickname that i use for everything in games 😅
 
 <div align="center">
   <a href = "mailto:ghco@cesar.school"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-henrique-3640411b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/gustavohenri342/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div><br>
+<a href="https://steamcommunity.com/id/DjdogeGamer/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+</div>
+<br>
 
 
 <div align="center">
@@ -20,7 +21,10 @@ CS Student at [CESAR School](http://www.cesar.school)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjdogeGamer&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Techs & Tools:
+---
+  
+### 🛠 Techs & Tools ###
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -44,3 +48,5 @@ CS Student at [CESAR School](http://www.cesar.school)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+ 
