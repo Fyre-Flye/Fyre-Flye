@@ -4,7 +4,7 @@
 - 🏠 I'm from Recife, Brazil
 - 🌱 I’m currently learning: **CS Fundamentals**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: DjdogeGamer" is my very old nickname that i use for everything in games 😅
+- ⚡ Fun fact: "DjdogeGamer" is my very old nickname that i use for everything in games 😅
 
 <div align="center">
   <a href = "mailto:ghco@cesar.school"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -48,5 +48,6 @@
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
  
