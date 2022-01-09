@@ -17,8 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/DjdogeGamer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DjdogeGamer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjdogeGamer&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DjdogeGamer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjdogeGamer&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
@@ -49,5 +49,3 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
- 
