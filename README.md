@@ -1,6 +1,6 @@
 # Hey! I'm Gustavo Henrique 👋
 
-- 📚 C.S. Student at [CESAR School](http://www.cesar.school)
+- 📚 CS BS Student at [CESAR School](http://www.cesar.school)
 - 🏠 I'm from Recife, Brazil
 - 🌱 I’m currently learning: **Data Structures & Algorithms** and **MySQL**
 - 👀 Aiming to learn **MERN Stack**
