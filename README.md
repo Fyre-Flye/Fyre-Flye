@@ -1,8 +1,8 @@
 # Hey! I'm Gustavo Henrique 👋
 
-- 📚 CS BS Student at [CESAR School](http://www.cesar.school)
+- 📚 CS BS Undergraduate at [CESAR School](http://www.cesar.school)
 - 🏠 I'm from Recife, Brazil
-- 🌱 I’m currently learning: **Data Structures & Algorithms** and **MySQL**
+- 🌱 I’m currently learning: **Data Structures & Algorithms**
 - 👀 Aiming to learn **MERN Stack**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "DjdogeGamer" is my very old nickname that i use for everything in games 😅
