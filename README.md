@@ -3,7 +3,7 @@
 - 📚 CS BS Undergraduate at [CESAR School](http://www.cesar.school)
 - 👨‍💻 I'm currently working as Software Development Intern at T4i
 - 🏠 I'm from Recife, Brazil
-- 🌱 I’m currently learning: **Data Structures & Algorithms** **MERN Stack** **.NET/C#**
+- 🌱 I’m currently learning: **Data Structures & Algorithms**, **MERN Stack**, **.NET/C#**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "DjdogeGamer" is my very old nickname that i use for everything in games 😅
 
