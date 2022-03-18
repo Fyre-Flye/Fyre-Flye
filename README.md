@@ -1,6 +1,7 @@
 # Hey! I'm Gustavo Henrique 👋
 
 - 📚 CS BS Undergraduate at [CESAR School](http://www.cesar.school)
+- 👨‍💻 I'm currently working as Software Development Intern at T4I
 - 🏠 I'm from Recife, Brazil
 - 🌱 I’m currently learning: **Data Structures & Algorithms**
 - 👀 Aiming to learn **MERN Stack**
