@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: **Data Structures & Algorithms**, **MERN Stack**, **.NET Platform**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "DjdogeGamer" is my very old nickname that i use for everything in games 😅
-- 💖 I'm in love with: Indie Game Devlopment with Godot Engine! 
+- 💖 I'm in love with: Indie Game Devlopment with **Godot Engine!**
 
 <div align ="center"><b>Wanna talk to Me? don't be shy!</b></div><br>
 <div align="center">
