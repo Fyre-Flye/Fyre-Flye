@@ -3,7 +3,7 @@
 - 📚 CS BSc Undergraduate at [CESAR School](http://www.cesar.school)
 - 👨‍💻 I'm currently open to Work as back-end/full-stack intern roles!
 - 🏠 I'm from Recife, Brazil
-- 🌱 I’m currently learning: **Data Structures & Algorithms**, **MERN Stack**, **.NET Platform**
+- 🌱 I’m currently learning: **Data Structures & Algorithms**, **MERN Stack**, **Java**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "DjdogeGamer" is my very old nickname that i use for everything in games 😅
 - 💖 I'm in love with: Indie Game Devlopment with **Godot Engine!**
