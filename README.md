@@ -1,8 +1,8 @@
 # Hey! I'm Gustavo Henrique 👋
 
 - 📚 CS BSc Undergraduate at [CESAR School](http://www.cesar.school)
-- 👨‍💻 I'm currently open to Work as back-end/full-stack intern roles!
-- 🏠 I'm from Recife, Brazil
+- 👨‍💻 I'm currently working as Java Devlopment Intern at Audax Group
+- 🏠 I'm from Recife, Pernambuco, Brazil
 - 🌱 I’m currently learning: **Data Structures & Algorithms**, **MERN Stack**, **Java**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "DjdogeGamer" is my very old nickname that i use for everything in games 😅
