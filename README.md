@@ -1,9 +1,9 @@
 # Hey! I'm Gustavo Henrique 👋
 
 - 📚 CS BSc Undergraduate at [CESAR School](http://www.cesar.school)
-- 👨‍💻 I'm currently working as Java Devlopment Intern at Audax Group
+- 👨‍💻 I'm currently working as **Java Devlopment Intern** at <a href="https://audax.mobi">Audax Group</a>
 - 🏠 I'm from Recife, Pernambuco, Brazil
-- 🌱 I’m currently learning: **Data Structures & Algorithms**, **MERN Stack**, **Java**
+- 🌱 I’m currently learning: **MERN Stack**, **Java Stack**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "DjdogeGamer" is my very old nickname that i use for everything in games 😅
 - 💖 I'm in love with: Indie Game Devlopment with **Godot Engine!**
@@ -16,7 +16,6 @@
 <a href="https://steamcommunity.com/id/DjdogeGamer/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 <br>
-
 
 <div align="center">
   <a href="https://github.com/DjdogeGamer">
