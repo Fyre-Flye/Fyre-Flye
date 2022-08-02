@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: **MERN Stack**, **Java Stack**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "DjdogeGamer" is my very old nickname that i use for everything in games 😅
-- 💖 I'm in love with: Indie Game Devlopment with **Godot Engine!** & **Functional Programming**
+- 💖 I'm in love with: Indie Game Devlopment with **Godot Engine** & **Functional Programming**!
 
 <div align ="center"><b>Wanna talk to Me? don't be shy!</b></div><br>
 <div align="center">
