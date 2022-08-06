@@ -1,5 +1,11 @@
 # Hey! I'm Gustavo Henrique 👋
 
+<br>
+<div align="center">
+  <img src="https://gif.javier.computer/87_66d69b6552daaf971744f870d28a7dd74148e85e-gifv.gif">
+</div>
+<br>
+
 - 📚 CS BSc Undergraduate at [CESAR School](http://www.cesar.school) 🧡
 - 👨‍💻 I'm currently working as **Java Devlopment Intern** at <a href="https://audax.mobi">Audax Group</a>
 - 🏠 I'm from Recife, Pernambuco, Brazil 
