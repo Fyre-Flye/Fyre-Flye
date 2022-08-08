@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-  <img src="https://gif.javier.computer/87_66d69b6552daaf971744f870d28a7dd74148e85e-gifv.gif">
+  <img alt="Anime Retro Keyboard Typing" src="https://gif.javier.computer/87_66d69b6552daaf971744f870d28a7dd74148e85e-gifv.gif">
 </div>
 <br>
 
