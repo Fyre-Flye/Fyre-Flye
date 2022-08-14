@@ -9,7 +9,7 @@
 - 📚 CS BSc Undergraduate at [CESAR School](http://www.cesar.school) 🧡
 - 👨‍💻 I'm currently working as **Java Devlopment Intern** at <a href="https://audax.mobi">Audax Group</a>
 - 🏠 I'm from Recife, Pernambuco, Brazil 
-- 🌱 I’m currently learning: **MERN Stack**, **Java Stack**
+- 🌱 I’m currently learning: **MERN Stack**, **Java Ecosystem**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "DjdogeGamer" is my very old nickname that i use for everything in games 😅
 - 💖 I'm in love with: Indie Game Devlopment with **Godot Engine 💙** & **Functional Programming λ** !
