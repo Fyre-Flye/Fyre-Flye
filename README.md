@@ -14,7 +14,7 @@
 - 👀 Interests: Back-End (BFF), Mobile (Native/Cross), Front-end (PWA's) and a bit of Data Science (Data Visualization)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "DjdogeGamer" is my very old nickname that i use for everything in games 😅
-- 💖 I'm in love with: Indie Game Devlopment with **Godot Engine 💙** & **Functional Programming λ** !
+- 💖 I'm in love with: **Indie Game Devlopment** with **Godot Engine 💙 + C#** & **Functional Programming λ + Haskell** !
 
 <div align ="center"><b>Wanna talk to Me? don't be shy!</b></div><br>
 <div align="center">
