@@ -7,7 +7,7 @@
 <br>
 
 - 📚 CS BSc Undergraduate at [CESAR School](http://www.cesar.school) 🧡
-- 👨‍💻 I'm currently working as **Software Enginnering Intern** at <a href="https://cesar.org.br">CESAR</a> 🧡
+- 👨‍💻 I'm currently working as **Software Engineering Intern** at <a href="https://cesar.org.br">CESAR</a> 🧡
 - 🏠 I'm from Recife, Pernambuco, Brazil 
 - 🌱 I’m currently learning: **Haskell/FP Fundamentals**, **MERN/MEAN Stack**, **Java Ecosystem**, **Android & Kotlin** (Embbed/Native)
 - 🎯 Looking to learn next: **Google Stack: Dart/Flutter, Google Cloud Platform, Firebase, Angular**, **AWS**, **Rust**, **Swift**
