@@ -1,4 +1,4 @@
-# Hey! I'm Gustavo Henrique 👋
+# Wuzup! I'm Gustavo! 🐈
 
 <br>
 <div align="center">
@@ -10,7 +10,7 @@
 - 👨‍💻 I'm currently working as **Software Engineering Intern** at <a href="https://cesar.org.br">CESAR</a> 🧡
 - 🏠 I'm from Recife, Pernambuco, Brazil 
 - 🌱 I’m currently learning: **Haskell/FP Fundamentals**, **MERN/MEAN Stack**, **Java Ecosystem**, **Android & Kotlin** (Embbed/Native)
-- 🎯 Looking to learn next: **Google Stack: Dart/Flutter, Google Cloud Platform, Firebase, Angular**, **AWS**, **Rust** and **Swift**
+- 🎯 Looking to learn next: **Google Stack: (Dart/Flutter, Google Cloud Platform, Firebase, Angular**) & **AWS**, **Rust** and **Swift**
 - 👀 Interests: Back-End (BFF), Mobile (Native/Cross), Front-end (PWA's) and a bit of Data Science (Data Visualization)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "DjdogeGamer" is my veryyy old nickname that i use for everything in games 😅
