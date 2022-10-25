@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-  <img alt="Anime Retro Keyboard Typing" src="https://gif.javier.computer/87_66d69b6552daaf971744f870d28a7dd74148e85e-gifv.gif">
+  <img alt="Anime Retro Keyboard Typing" src="https://gif.javier.computer/62_tumblr_ovgykaegrn1u5k06fo1_540-gifv.gif">
 </div>
 <br>
 
@@ -22,6 +22,12 @@
   <a href="https://www.linkedin.com/in/gustavo-henrique-3640411b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/gustavohenri342/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://steamcommunity.com/id/DjdogeGamer/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+</div>
+<br>
+
+<br>
+<div align="center">
+  <img alt="Anime Retro Keyboard Typing" src="https://gif.javier.computer/43_tumblr_oknx8cyrzh1uazugyo1_500-gif.gif">
 </div>
 <br>
 
