@@ -27,7 +27,7 @@
 
 <br>
 <div align="center">
-  <img alt="Anime Retro Gif" src="https://gif.javier.computer/43_tumblr_oknx8cyrzh1uazugyo1_500-gif.gif">
+  <img alt="Anime Retro Gif" src="https://gif.javier.computer/29_tumblr_msbhxqmad31r60ay5o1_500-gif.gif">
 </div>
 <br>
 
