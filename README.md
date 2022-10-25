@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-  <img alt="Anime Retro Keyboard Typing" src="https://gif.javier.computer/62_tumblr_ovgykaegrn1u5k06fo1_540-gifv.gif">
+  <img alt="Anime Retro Gif" src="https://gif.javier.computer/62_tumblr_ovgykaegrn1u5k06fo1_540-gifv.gif">
 </div>
 <br>
 
@@ -27,7 +27,7 @@
 
 <br>
 <div align="center">
-  <img alt="Anime Retro Keyboard Typing" src="https://gif.javier.computer/43_tumblr_oknx8cyrzh1uazugyo1_500-gif.gif">
+  <img alt="Anime Retro Gif" src="https://gif.javier.computer/43_tumblr_oknx8cyrzh1uazugyo1_500-gif.gif">
 </div>
 <br>
 
