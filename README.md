@@ -10,11 +10,11 @@
 - 👨‍💻 I'm currently working as **Software Engineering Intern** at <a href="https://cesar.org.br">CESAR</a> 🧡
 - 🏠 I'm from Recife, Pernambuco, Brazil 
 - 🌱 I’m currently learning: **Haskell/FP Fundamentals**, **MERN/MEAN Stack**, **Java Ecosystem**, **Android && Kotlin** (Embbed/Native)
-- 🎯 Looking to learn next: **Google Stack: (Dart/Flutter, Google Cloud Platform, Firebase, AngularJS**) and **AWS**, **Rust** && **Swift**/**iOS**
-- 👀 Interests: Back-End (BFF), Mobile (Native/Cross), Front-end (PWA's) and a bit of Data Science (Data Visualization)
-- 😄 Pronouns: He/Him || They/Them
+- 🎯 Looking to learn next: **Google Stack: (Dart/Flutter, Google Cloud Platform, Firebase, AngularJS**) and **AWS**, **Rust** & **Swift**/**iOS** 
+- 👀 Interests: Back-End (BFF), Mobile (Native/Cross), Front-end (SPA's/PWA's) and a bit of Data Science (Data Visualization)
+- 😄 Pronouns: He/Him, They/Them
 - ⚡ Fun fact: "DjdogeGamer" is my veryyy old nickname that i use for everything in games 😅
-- 💖 I'm in love with: **Indie Game Development** with **Godot Engine** 💙 + **C#** && **Functional Programming λ + Haskell** !
+- 💖 I'm in love with: **Indie Game Development** with **Godot Engine** 💙 + **C#** & **Functional Programming λ + Haskell** !
 
 <div align ="center"><b>Wanna talk to Me? don't be shy!</b></div><br>
 <div align="center">
