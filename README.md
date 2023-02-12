@@ -7,9 +7,8 @@
 <br>
 
 - 📚 CS BSc Undergraduate at [CESAR School](http://www.cesar.school) 🧡
-- 👨‍💻 I'm currently working as **Software Engineering Intern** at <a href="https://cesar.org.br">CESAR</a> 🧡
 - 🏠 I'm from Recife, Pernambuco, Brazil 
-- 🌱 I’m currently learning: **Haskell/FP Fundamentals**, **MERN/MEAN Stack**, **Java Ecosystem**, **Android && Kotlin** (Embbed/Native)
+- 🌱 I’m currently learning: **Haskell/FP Fundamentals**, **MERN/MEAN Stack**, **Java Ecosystem**, **Android && Kotlin** (Embbeded/Native)
 - 🎯 Looking to learn next: **Google Stack: (Dart/Flutter, Google Cloud Platform, Firebase, AngularJS**) and **AWS**, **Rust** & **Swift**/**iOS** 
 - 👀 Interests: Back-End (BFF), Mobile (Native/Cross), Front-end (SPA's/PWA's) and a bit of Data Science (Data Visualization)
 - 😄 Pronouns: He/Him, They/Them
