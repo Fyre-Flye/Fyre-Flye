@@ -8,10 +8,10 @@
 
 - 📚 CS BSc Undergraduate at [CESAR School](http://www.cesar.school) 🧡
 - 🏠 I'm from Recife, Pernambuco, Brazil 
-- 🌱 I’m currently learning: **Haskell/FP Fundamentals**, **MERN/MEAN Stack**, **Java Ecosystem**, **Android && Kotlin** (Embbeded/Native)
-- 🎯 Looking to learn next: **Google Stack: (Dart/Flutter, Google Cloud Platform, Firebase, AngularJS**) and **AWS**, **Rust** & **Swift**/**iOS** 
+- 🌱 I’m currently learning: **Haskell/FP Fundamentals**, **MERN/MEAN Stack**, **Java Ecosystem**, **Android & Kotlin** (Embbeded/Native)
+- 🎯 Looking to learn next: **Google Stack: (Dart/Flutter, Google Cloud Platform, Firebase, AngularJS**) and **AWS** & **Rust**  
 - 👀 Interests: Back-End (BFF), Mobile (Native/Cross), Front-end (SPA's/PWA's) and a bit of Data Science (Data Visualization)
-- 😄 Pronouns: He/Him, They/Them
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: "DjdogeGamer" is my veryyy old nickname that i use for everything in games 😅
 - 💖 I'm in love with: **Indie Game Development** with **Godot Engine** 💙 + **C#** & **Functional Programming λ + Haskell** !
 
