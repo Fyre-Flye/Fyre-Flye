@@ -18,14 +18,14 @@
   <a href = "mailto:gustavohco34@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-oliveira-3640411b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/gustavohenri342/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://steamcommunity.com/id/DjdogeGamer/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+<a href="https://steamcommunity.com/id/FyreFlye/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 <br>
 
 <div align="center">
-  <a href="https://github.com/DjdogeGamer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DjdogeGamer&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjdogeGamer&layout=compact&langs_count=10&theme=react"/>
+  <a href="https://github.com/Fyre-Flye">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fyre-Flye&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fyre-Flye&layout=compact&langs_count=10&theme=react"/>
 </div>
 
 ---
