@@ -1,4 +1,4 @@
-# Wuzup! I'm Gustavo! 🐈
+# Hai! I'm Gustavo! 🐈
 
 <br>
 <div align="center">
@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning: **MERN Stack**, **Java**, **Android & Kotlin** 
 - 🎯 Looking to learn next: **Dart/Flutter**, **Google Cloud Platform**, **Firebase**, **AWS** and **Rust**  
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: "DjdogeGamer" is my veryyy old nickname that i use for everything in games 😅
+- ⚡ Fun fact: Why "Firefly"? [Here!](https://mlp.fandom.com/pt/wiki/Rainbow_Dash#Desenvolvimento%20e%20design)
 
 <div align ="center"><b>Wanna talk to Me? don't be shy!</b></div><br>
 <div align="center">
